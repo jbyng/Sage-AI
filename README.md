@@ -1,5 +1,23 @@
 # DSC412-project
 
-Fill out this readme to point your reader in the correct direction.
+### Run:
 
-Every milestone after and including milestone 2 should be submitted through this repo. 
+Create a virtual environment with
+
+`python -m venv ./.venv`
+
+Then activate it in terminal:
+
+Windows: `.\.venv\Scripts\activate`
+
+Mac: `source ./.venv/bin/activate`
+
+Linux: `source ./.venv/bin/activate`
+
+### Activate webapp
+
+Type command:
+
+'streamlit run main.py'
+
+Allow streamlit accesses
