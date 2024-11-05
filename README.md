@@ -14,6 +14,8 @@ Mac: `source ./.venv/bin/activate`
 
 Linux: `source ./.venv/bin/activate`
 
+then run `pip install -r requirements.txt`
+
 ### Activate webapp
 
 Type command:
