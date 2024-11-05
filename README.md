@@ -1,5 +1,9 @@
 # DSC412-project
 
+## NOTE FOR MILESTONE 3:
+
+This project was not done in a jupyter notebook, but is contained within the main.py python file. Currently the project runs with OpenCV's computer vision model, but I plan on transitioning to a less abstracted package in order to improve understanding.
+
 ### Run:
 
 Create a virtual environment with
