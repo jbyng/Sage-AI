@@ -26,4 +26,6 @@ Type command:
 
 'streamlit run main.py'
 
-Allow streamlit accesses
+Allow streamlit access as prompted
+
+Ignore the test video, will replace when needed.
