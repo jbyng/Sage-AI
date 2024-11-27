@@ -1,8 +1,10 @@
 # DSC412-project
 
-## NOTE FOR MILESTONE 3:
+# Introduction Video
 
-THERE ARE TWO SEPARATE PARTS TO THIS PROJECT.
+https://github.com/user-attachments/assets/9e7b3c87-f141-4186-a756-1df330c911c0
+
+## THERE ARE TWO SEPARATE PARTS TO THIS PROJECT:
 
 ### Part 1: Pytorch Computer Vision Model
 
