@@ -1,0 +1,15 @@
+runtime: custom
+env: flex
+resources:
+  cpu: 4  # Minimum 2 CPUs; consider increasing to 4 if performance is a priority
+  memory_gb: 4  # At least 4 GB; increase to 8 GB if processing large images or high frame rates
+  disk_size_gb: 10
+
+entrypoint: streamlit run streamlit-app.py --server.port $PORT
+
+automatic_scaling:
+  max_num_instances: 1
+
+# Or manual scaling as below:
+# manual_scaling:
+#   instances: 1
