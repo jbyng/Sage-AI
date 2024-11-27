@@ -2,11 +2,24 @@
 
 ## NOTE FOR MILESTONE 3:
 
-This project was not done in a jupyter notebook, but is contained within the main.py python file. Currently the project runs with OpenCV's computer vision model, but I plan on transitioning to a less abstracted package in order to improve understanding.
+THERE ARE TWO SEPARATE PARTS TO THIS PROJECT.
+
+### Part 1: Pytorch Computer Vision Model
+
+This is a jupyter notebook where I create a computer vision model with PyTorch. I begin by scraping the web for images of human faces, then proceed to train, validate, and test the model. At the end, I test it on two example images to demonstrate its functionality.
+
+I created this to supplement the second part of my project, where I create a real-time face detection app using a pre-built model. This way, viewers of my repository will know how every step of the process works.
+
+
+### Part 2: Sage Face Detection App
+
+This project was not done in a jupyter notebook, but is contained mainly within the streamlit-app.py python file. The project runs with a pre-built OpenCV face detection model.
 
 The frontend/backend of this website is handled through the streamlit package, and OpenCV is used for the computer vision aspect.
 
-### Run:
+NOTE - this project runs on local resources, so on a less powerful computer it may not run as well.
+
+#### Run:
 
 Create a virtual environment with
 
