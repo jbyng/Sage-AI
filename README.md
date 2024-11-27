@@ -8,6 +8,8 @@ https://github.com/user-attachments/assets/9e7b3c87-f141-4186-a756-1df330c911c0
 
 ### Part 1: Pytorch Computer Vision Model
 
+pytorchcv.ipynb
+
 This is a jupyter notebook where I create a computer vision model with PyTorch. I begin by scraping the web for images of human faces, then proceed to train, validate, and test the model. At the end, I test it on two example images to demonstrate its functionality.
 
 I created this to supplement the second part of my project, where I create a real-time face detection app using a pre-built model. This way, viewers of my repository will know how every step of the process works.
