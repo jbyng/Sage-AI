@@ -14,6 +14,7 @@ This is a jupyter notebook where I create a computer vision model with PyTorch. 
 
 I created this to supplement the second part of my project, where I create a real-time face detection app using a pre-built model. This way, viewers of my repository will know how every step of the process works.
 
+This file explains every step of the process in markdown, so take a look!
 
 ### Part 2: Sage Face Detection App
 
