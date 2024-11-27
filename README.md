@@ -24,6 +24,8 @@ The frontend/backend of this website is handled through the streamlit package, a
 
 NOTE - this project runs on local resources, so on a less powerful computer it may not run as well.
 
+In the application, you will be taken to the home screen. It will demonstrate how the app works with a test video, and will give you options to select on the lefthand side of the screen. You will be able to change the minimum detection confidence and the choice of model, and will give you the option to upload your own video or use your webcam for real-time face detection.
+
 #### Run:
 
 Create a virtual environment with
@@ -38,16 +40,10 @@ Mac: `source ./.venv/bin/activate`
 
 Linux: `source ./.venv/bin/activate`
 
-Make sure you're working in the venv environment
-
-then run `pip install -r requirements.txt`
-
 ### Activate webapp
 
 Type command:
 
-'streamlit run main.py'
+'streamlit run streamlit-app.py'
 
 Allow streamlit access as prompted
-
-Ignore the test video, will replace when needed.
