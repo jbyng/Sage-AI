@@ -1,4 +1,4 @@
-# DSC412-project
+# Sage-AI
 
 # Introduction Video
 
